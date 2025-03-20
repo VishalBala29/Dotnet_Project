@@ -1,0 +1,6 @@
+@net_form_HostAddress = http://localhost:5155
+
+GET {{net_form_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
