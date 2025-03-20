@@ -1,0 +1,7 @@
+D:\Programming Files\C# codes\Sample\bin\Debug\Sample.exe.config
+D:\Programming Files\C# codes\Sample\bin\Debug\Sample.exe
+D:\Programming Files\C# codes\Sample\bin\Debug\Sample.pdb
+D:\Programming Files\C# codes\Sample\obj\Debug\Sample.csproj.AssemblyReference.cache
+D:\Programming Files\C# codes\Sample\obj\Debug\Sample.csproj.CoreCompileInputs.cache
+D:\Programming Files\C# codes\Sample\obj\Debug\Sample.exe
+D:\Programming Files\C# codes\Sample\obj\Debug\Sample.pdb
